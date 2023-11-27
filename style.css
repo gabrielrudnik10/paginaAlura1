@@ -56,3 +56,6 @@ ul {
 .imagemcabelo{
 	width:20%;
 }
+.imagemcabelo+barba{
+	width:20%;
+}
