@@ -50,15 +50,7 @@ ul {
 .imagembeneficios {
 	width: 50%;
 }
-.imagembarba{
-	width:20%;
-}
-.imagemcabelo{
-	width:20%;
-}
-.imagemcabelo+barba{
-	width:40%;
-}
+
 .imagemlogo{
     width:40%;
 }
