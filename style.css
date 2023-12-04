@@ -62,7 +62,7 @@ ul {
 .imagemlogo{
     width:40%;
 }
-.produtos li {
+.produtos{
 	display: inline-block;
 	text-align: center;
 	width: 30%;
