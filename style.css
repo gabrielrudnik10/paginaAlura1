@@ -45,6 +45,9 @@ ul {
 	vertical-align: top;
 	width: 20%;
 	margin-right: 15%;
+	border: 2px solid #000000;
+border-radius: 10px;
+
 }
 
 .imagembeneficios {
@@ -62,3 +65,4 @@ ul {
 .imagemlogo{
     width:40%;
 }
+
